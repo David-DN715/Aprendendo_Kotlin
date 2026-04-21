@@ -25,7 +25,7 @@ Este repositório documenta minha evolução com exemplos práticos e projetos.
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,git,github,androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,git,github,androidstudio"/>
 </p>
 
 ---
